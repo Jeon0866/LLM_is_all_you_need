@@ -25,7 +25,6 @@
 
 
 ## 4. 프로젝트 기간
-<img style="margin-top: 20px" src='./IMG/schedule(3).png'> </img>
 - 1차
 - 2023.12.29 ~ 2024.1.5
 - 2차
